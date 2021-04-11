@@ -150,6 +150,14 @@ public class StackArrayImplementation {
         else{
             System.out.println("Wrong Input, Try again");   //displaying error message after user enters wrong input
             undoPrompt();                                   //prompting user again
+
+            //performing pop operation on stack
+            stack.pop();
+
+            //displaying stack after popping
+            System.out.println("\nStack after popping");
+            stack.show();
+
         }
 
 
