@@ -6,6 +6,7 @@ These algorithms include;
 #### * DOUBLY LINKEDLIST
 #### * SINGLY LINKEDLIST
 #### * STACK IMPLEMENTATION
+#### * BINARY TREE
 
 
 #### * INSTALLATION
